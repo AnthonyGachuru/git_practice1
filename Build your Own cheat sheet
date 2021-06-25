@@ -1,0 +1,26 @@
+<html>
+  <!--Header part -->
+  <head>
+    <h1>PROJECT 1: BUILD YOUR OWN CHEAT SHEET</h1>
+    <link href="styles.css" type='text/css' rel='stylesheet'>
+  </head>
+  <!--Body Part -->
+  <body>
+    <h2>Topics</h2>
+      <p>The second chapter of the Front-End Engineering program contained the following chapter:</p>
+      <ol>
+        <li>Introduction to <em>Web Development</em></li>
+        <li>What is the <strong>Internet?</strong></li>
+        <li>What is Web development</li>
+        <li>What is Front-End Development</li>
+        <li>Learn HTML: 
+          <br>
+          <p>
+            Within HTML, there are various components that we learned about including:
+
+          </p>
+        </li>
+      </ol>
+
+  </body>
+</html>
